@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{11926667-C09F-4C3C-B665-4B284AA3653D}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WeddingPlanner" expanded="True">
+            <Node name="WeddingPlanner" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Dashboard.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.WeddingPlanner PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
